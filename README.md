@@ -20,3 +20,6 @@ python main.py --model metafpn --ext sep  --save metafpn --n_GPUs 1 --batch_size
 训练并测试：
 
 python main.py --model metafpn --save metafpn --ext sep --lr_decay 90 --epochs 400 --n_GPUs 1 --batch_size 4
+
+
+持续更新中……………………………………………………………………………………
