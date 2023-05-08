@@ -28,15 +28,6 @@ python main.py --model metafpn --save metafpn --ext sep --lr_decay 90 --epochs 4
 
 Citation:
 
-@artical{ni2022hierarchical,
-  author={Ni, Ning and Wu, Hanlin and Zhang, Libao},
-  journal={IEEE Geoscience and Remote Sensing Letters}, 
-  title={Hierarchical Feature Aggregation and Self-Learning Network for Remote Sensing Image Continuous-Scale Super-Resolution}, 
-  year={2022},
-  volume={19},
-  number={},
-  pages={1-5},
-  doi={10.1109/LGRS.2021.3122985}
- }
+N. Ni, H. Wu and L. Zhang, "Hierarchical Feature Aggregation and Self-Learning Network for Remote Sensing Image Continuous-Scale Super-Resolution," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 8023505, doi: 10.1109/LGRS.2021.3122985.
  
  持续更新中……………………………………………………………………………………
