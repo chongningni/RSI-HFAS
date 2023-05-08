@@ -21,5 +21,20 @@ python main.py --model metafpn --ext sep  --save metafpn --n_GPUs 1 --batch_size
 
 python main.py --model metafpn --save metafpn --ext sep --lr_decay 90 --epochs 400 --n_GPUs 1 --batch_size 4
 
+视觉结果：
+![fig5_4](https://user-images.githubusercontent.com/58589797/236726207-66d12176-043f-4c18-bd93-0f8fa1abfbf3.png)
 
-持续更新中……………………………………………………………………………………
+
+Citation:
+@artical{ni2022hierarchical,
+  author={Ni, Ning and Wu, Hanlin and Zhang, Libao},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={Hierarchical Feature Aggregation and Self-Learning Network for Remote Sensing Image Continuous-Scale Super-Resolution}, 
+  year={2022},
+  volume={19},
+  number={},
+  pages={1-5},
+  doi={10.1109/LGRS.2021.3122985}
+ }
+ 
+ 持续更新中……………………………………………………………………………………
